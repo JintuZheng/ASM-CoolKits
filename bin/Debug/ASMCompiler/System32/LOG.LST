@@ -1,0 +1,51 @@
+Microsoft (R) Macro Assembler Version 5.00                  7/7/20 11:15:29
+                                                             Page     1-1
+
+
+       1 0000				DATAS SEGMENT 
+       2				    ;此处输入数据段代码   
+       3 0000				DATAS ENDS 
+       4				 
+       5 0000				STACKS SEGMENT 
+       6				    ;此处输入堆栈段代码 
+       7 0000				STACKS ENDS 
+       8				 
+       9 0000				CODES SEGMENT 
+      10				    ASSUME CS:CODES,DS:DATAS,SS:STACKS 
+      11 0000				START: 
+      12 0000  B8 ---- R		    MOV AX,DATAS 
+      13 0003  8E D8			    MOV DS,AX 
+      14				    ;此处输入代码段代码 
+      15 0005  B4 4C			    MOV AH,4CH 
+      16 0007  CD 21			    INT 21H 
+      17 0009				CODES ENDS 
+      18				    END START 
+Microsoft (R) Macro Assembler Version 5.00                  7/7/20 11:15:29
+                                                             Symbols-1
+
+
+Segments and Groups:
+
+                N a m e         	Length	 Align	Combine Class
+
+CODES  . . . . . . . . . . . . .  	0009	PARA	NONE	
+DATAS  . . . . . . . . . . . . .  	0000	PARA	NONE	
+STACKS . . . . . . . . . . . . .  	0000	PARA	NONE	
+
+Symbols:            
+
+                N a m e         	Type	 Value	 Attr
+
+START  . . . . . . . . . . . . .  	L NEAR	0000	CODES
+
+@FILENAME  . . . . . . . . . . .  	TEXT  App		
+
+
+     18 Source  Lines
+     18 Total   Lines
+      6 Symbols
+
+  50662 + 465850 Bytes symbol space free
+
+      0 Warning Errors
+      0 Severe  Errors

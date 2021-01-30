@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MASM_SCAU.configs" GeneratedClassName="AppMainSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EditorTheme" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">vs</Value>
+    </Setting>
+    <Setting Name="FirstOpen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CompilerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:/ASMCompiler</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

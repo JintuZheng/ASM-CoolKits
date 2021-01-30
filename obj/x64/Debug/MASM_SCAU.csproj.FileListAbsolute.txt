@@ -1,0 +1,192 @@
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\cef.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\cef_100_percent.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\cef_200_percent.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\cef_extensions.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\chrome_elf.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\d3dcompiler_47.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\devtools_resources.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\icudtl.dat
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\libcef.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\libEGL.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\libGLESv2.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\am.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ar.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\bg.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\bn.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ca.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\cs.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\da.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\de.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\el.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\en-GB.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\en-US.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\es-419.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\es.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\et.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\fa.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\fi.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\fil.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\fr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\gu.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\he.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\hi.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\hr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\hu.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\id.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\it.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ja.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\kn.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ko.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\lt.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\lv.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ml.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\mr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ms.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\nb.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\nl.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\pl.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\pt-BR.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\pt-PT.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ro.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ru.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\sk.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\sl.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\sr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\sv.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\sw.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\ta.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\te.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\th.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\tr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\uk.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\vi.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\zh-CN.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\locales\zh-TW.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\README.txt
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\snapshot_blob.bin
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\swiftshader\libEGL.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\v8_context_snapshot.bin
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.Core.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.Core.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.Core.xml
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.XML
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.WinForms.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\CefSharp.WinForms.XML
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\MASM_SCAU.exe.config
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\MASM_SCAU.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\MASM_SCAU.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\x64\Debug\MASM_SCAU.csprojAssemblyReference.cache
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\x64\Debug\MASM_SCAU.MainForm.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\x64\Debug\MASM_SCAU.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\x64\Debug\MASM_SCAU.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\x64\Debug\MASM_SCAU.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\x64\Debug\MASM_SCAU.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\bin\Debug\newshadowJT.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\x64\Debug\MASM_SCAU.welcomeForm.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\x64\Debug\MASM_SCAU.csproj.CopyComplete
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\cef.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\cef_100_percent.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\cef_200_percent.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\cef_extensions.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\chrome_elf.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\d3dcompiler_47.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\devtools_resources.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\icudtl.dat
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\libcef.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\libEGL.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\libGLESv2.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\am.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ar.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\bg.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\bn.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ca.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\cs.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\da.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\de.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\el.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\en-GB.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\en-US.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\es-419.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\es.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\et.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\fa.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\fi.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\fil.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\fr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\gu.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\he.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\hi.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\hr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\hu.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\id.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\it.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ja.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\kn.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ko.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\lt.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\lv.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ml.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\mr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ms.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\nb.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\nl.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\pl.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\pt-BR.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\pt-PT.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ro.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ru.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\sk.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\sl.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\sr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\sv.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\sw.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\ta.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\te.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\th.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\tr.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\uk.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\vi.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\zh-CN.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\locales\zh-TW.pak
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\README.txt
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\snapshot_blob.bin
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\swiftshader\libEGL.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\v8_context_snapshot.bin
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.Core.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.Core.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.Core.xml
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.XML
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.WinForms.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\CefSharp.WinForms.XML
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\MASM_SCAU.exe.config
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\MASM_SCAU.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\MASM_SCAU.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\newshadowJT.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.csprojAssemblyReference.cache
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.MainForm.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.OtherForms.contactForm.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.OtherForms.DiffForm.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.welcomeForm.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.csproj.CopyComplete
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU_PROJECT\MASM_SCAU\obj\x64\Debug\MASM_SCAU.pdb

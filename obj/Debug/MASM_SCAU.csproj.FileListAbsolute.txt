@@ -1,0 +1,11 @@
+C:\Users\HUAWEI\source\repos\MASM_SCAU\bin\Debug\MASM_SCAU.exe.config
+C:\Users\HUAWEI\source\repos\MASM_SCAU\bin\Debug\MASM_SCAU.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU\bin\Debug\MASM_SCAU.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU\obj\Debug\MASM_SCAU.csprojAssemblyReference.cache
+C:\Users\HUAWEI\source\repos\MASM_SCAU\obj\Debug\MASM_SCAU.MainForm.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU\obj\Debug\MASM_SCAU.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\MASM_SCAU\obj\Debug\MASM_SCAU.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\MASM_SCAU\obj\Debug\MASM_SCAU.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU\obj\Debug\MASM_SCAU.pdb
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\Debug\MASM_SCAU.exe
+C:\Users\HUAWEI\source\repos\MASM_SCAU - 副本\obj\Debug\MASM_SCAU.pdb
